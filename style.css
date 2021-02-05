@@ -1,4 +1,20 @@
+h1,
+h2 {
+    margin: 200px auto;
+    text-align: center;
+    text-shadow: 1px 1px 20px black;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
 #JeromeHT{
   font-size: large;
   color:crimson;
 }
+
