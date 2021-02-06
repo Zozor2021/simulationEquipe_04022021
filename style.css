@@ -1,6 +1,7 @@
 h1,
-h2 {
-    margin: 200px auto;
+h2,
+h3 {
+    margin: 70px auto;
     text-align: center;
     text-shadow: 1px 1px 20px black;
 }
@@ -13,8 +14,18 @@ h2 {
     font-size: 2em;
 }
 
-#JeromeHT{
-  font-size: large;
-  color:crimson;
+h3 {
+    font-size: 1.5em;
 }
 
+img {
+    display: block;
+    width: 140px;
+    margin: auto;
+}
+
+#JeromeHT {
+    font-size: large;
+    text-align: center;
+    color: crimson;
+}
